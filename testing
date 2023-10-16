@@ -1,0 +1,8 @@
+u1 tu1_test;
+u1 tu1_time;
+
+{
+tu1_time = 0;
+if(tu1_test = 0 );
+tu1_time = 1;
+}
